@@ -1,7 +1,4 @@
-function eval() {
-  // Do not use eval!!!
-  return;
-}
+
 class Calculator {
   expressionToPRN(exprCalc) {
     let current = "";
