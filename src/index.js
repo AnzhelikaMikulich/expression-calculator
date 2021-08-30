@@ -1,5 +1,6 @@
 
 class Calculator {
+    constructor(){}
   expressionToPRN(exprCalc) {
     let current = "";
     let stack = [];
